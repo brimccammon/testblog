@@ -2,12 +2,7 @@ title: Brian's Blog
 description: PowerShell, Azure, and other things I break
 url: https://brimccammon.github.io
 
-author:
-  name: Brian McCammon
-
-remote_theme: mmistakes/minimal-mistakes@4.24.0
-include_cached: false
+theme: jekyll-theme-minimal
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
