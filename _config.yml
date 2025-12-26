@@ -6,7 +6,7 @@ theme: jekyll-theme-minimal
 author:
   name: Brian McCammon
 
-logo: /header.png
+logo: /header.jpg
 theme_color: blue
 
 plugins:
