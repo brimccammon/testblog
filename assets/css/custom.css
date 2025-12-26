@@ -1,0 +1,8 @@
+.header-link[href$="/github"]:not([href^="https://github.com/"]) {
+  display: none;
+}
+
+/* or simpler */
+.site-header .repo-link {
+  display: none;
+}
