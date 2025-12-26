@@ -1,13 +1,11 @@
 title: Brian's Blog
 description: PowerShell, Azure, and other things I break
-url: https://brimccammon.github.io
 
 theme: jekyll-theme-minimal
 author:
   name: Brian McCammon
 
 logo: /header.jpg
-theme_color: black
 
 plugins:
   - jekyll-feed
