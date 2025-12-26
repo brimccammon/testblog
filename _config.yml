@@ -1,7 +1,7 @@
 title: Brian's Blog
 description: PowerShell, Azure, and other things I break
 
-theme: jekyll-theme-minima
+theme: minima
 author:
   name: Brian McCammon
 
