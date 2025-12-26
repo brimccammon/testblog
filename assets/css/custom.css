@@ -1,3 +1,4 @@
-.site-header .repo-link {
-  display: none;
+/* Hide the "View on GitHub" link in Modernist */
+a.header-link[href*="github.com"] {
+    display: none !important;
 }
