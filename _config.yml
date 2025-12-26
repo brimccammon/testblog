@@ -1,11 +1,11 @@
 title: Brian's Blog
 description: PowerShell, Azure, and other things I break
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-modernist
 author:
   name: Brian McCammon
 
-logo: /header.jpg
+header_image: /assets/images/banner.jpg
 
 plugins:
   - jekyll-feed
