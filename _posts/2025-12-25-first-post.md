@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <h3>My First Post<h3>
+title: My First Post
 ---
 
 Hello world.
