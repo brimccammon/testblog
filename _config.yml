@@ -9,3 +9,6 @@ show_excerpts: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# Google Analytics
+google_analytics: G-VRXD5H3PWP
